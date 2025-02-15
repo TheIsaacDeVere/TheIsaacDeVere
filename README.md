@@ -2,6 +2,9 @@
 
 **`Digital Craftsman (Developer/Designer/Architect)`**
 
+**`#Lua
+#Python**`
+
 " Live as you'll die tomorrow,  learn as you'll live forever. ". 
 
 Hello, nice to meet ya.  I am IsaacWDeVere, I have extensive knowledge in technology and architecture. I balance academics with my hobbies like developing and social media. Discord is my main platform. I'm a Roblox game developer and also an online Therapist.  I am so experienced that I can know what kind of person someone is by just reading few of their messages! If you need someone to talk to feel free to dm me anytime!
@@ -30,7 +33,7 @@ My:
 | :---:         |     :---:      |          :---: |
 | 350+  | Folders  | The amount of folders i've made. |
 | 1,050+ | Files | The amount of files I have in my workspace. |
-| 150+ | Codes | Working codes. |
+| 13,000+ | Codes | Working codes. / Codes I've written. |
 | 55+ | Projects | Amount of projects I have worked on. |
 | 80+ | Developers Platforms Explored | Other Developers Platforms that i've explored. |
 

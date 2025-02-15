@@ -8,11 +8,14 @@ Hello, nice to meet ya.  I am IsaacWDeVere, I have extensive knowledge in techno
 
 | Programming  |
 | :--        |
+| # C++ |
+| # C# |
 | # Java  |
 | # JavaScript |
 | # Lua |
-| # Python |
 | # Swift |
+| # Python |
+| # HTML |
 
 My: 
 [Discord](https://discord.com/users/1233652449365983254/),

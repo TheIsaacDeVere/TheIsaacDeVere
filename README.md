@@ -6,7 +6,7 @@
 
 Hello, nice to meet ya.  I am IsaacWDeVere, I have extensive knowledge in technology and architecture. I balance academics with my hobbies like developing and social media. Discord is my main platform. I'm a Roblox game developer and also an online Therapist.  I am so experienced that I can know what kind of person someone is by just reading few of their messages! If you need someone to talk to feel free to dm me anytime!
 
-| Programming  |
+| Languages  |
 | :--        |
 | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 | ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) |

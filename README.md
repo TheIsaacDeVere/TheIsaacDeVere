@@ -1,4 +1,4 @@
-# 🖋 IsaacWDeVere ![Image](https://github.com/user-attachments/assets/196f8333-9a38-4ebd-bdda-403b50da2c42)
+# IsaacWDeVere <img align="left" alt="Spring" width="40px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/0acdec10-cead-4800-8ff7-8849bc1b7eb4" />
 
 **`Digital Craftsman (Developer/Designer/Architect)`**
 

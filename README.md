@@ -13,16 +13,20 @@ Hello, nice to meet ya.  I am IsaacWDeVere, I have extensive knowledge in techno
 | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 | ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) |
 | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) |
-| ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  |
 | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) |
 | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+
+| Builds  |
+| :--        |
+| ![Image](https://github.com/user-attachments/assets/597ad336-9b24-4455-ba35-41ecb5f4c086) |
+| ![Image](https://github.com/user-attachments/assets/8ac93112-a9ef-434a-b2bd-49c0e908d517) |
+| ![Image](https://github.com/user-attachments/assets/5f79c961-1621-41c7-917b-5b4d157e179b) |
+| ![Image](https://github.com/user-attachments/assets/24168673-305e-4b3e-af7b-04775a0be86a) |
 
 My: 
 [Discord](https://discord.com/users/1233652449365983254/),
 [Roblox](https://www.roblox.com/users/2698166225/profile),
 [Youtube](https://www.youtube.com/@IsaacWDeVere).
-
-![Image](https://github.com/user-attachments/assets/9bfcd9cd-f4e8-429a-98b0-3e30f2c86179)
 
 ## Achievements `Discord`
 | Amount  | Particulars | Description |

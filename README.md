@@ -16,7 +16,7 @@ Hello, nice to meet ya.  I am IsaacWDeVere, I have extensive knowledge in techno
 | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) |
 | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
 
-| Builds  |
+| Builds *(I forgot to more of my builds)* |
 | :--        |
 | ![Image](https://github.com/user-attachments/assets/597ad336-9b24-4455-ba35-41ecb5f4c086) |
 | ![Image](https://github.com/user-attachments/assets/8ac93112-a9ef-434a-b2bd-49c0e908d517) |

@@ -1,4 +1,4 @@
-# IsaacWDeVere <img align="left" alt="Spring" width="40px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/0acdec10-cead-4800-8ff7-8849bc1b7eb4" />
+# IsaacWDeVere <img align="left" alt="Spring" width="35px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/0acdec10-cead-4800-8ff7-8849bc1b7eb4" />
 
 **`Digital Craftsman (Developer/Designer/Architect)`**
 
@@ -16,7 +16,7 @@ Hello, nice to meet ya.  I am IsaacWDeVere, I have extensive knowledge in techno
 | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) |
 | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
 
-| Builds *(I forgot to more of my builds)* |
+| Builds *(I forgot to save more of my builds)* |
 | :--        |
 | ![Image](https://github.com/user-attachments/assets/597ad336-9b24-4455-ba35-41ecb5f4c086) |
 | ![Image](https://github.com/user-attachments/assets/8ac93112-a9ef-434a-b2bd-49c0e908d517) |

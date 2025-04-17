@@ -8,7 +8,14 @@
 
 " Live as you'll die tomorrow,  learn as you'll live forever. ". 
 
-Hello, nice to meet ya.  I am IsaacWDeVere, I have extensive knowledge in technology and **architecture**. I balance academics with my hobbies like developing and social media. Discord is my main platform. I'm a **Developer** and also an **Online Therapist**.  I am so experienced that I can know what kind of person someone is by just reading few of their messages! If you need someone to talk to feel free to dm me anytime! Oh and I love jazz. 
+Hello, nice to meet ya. My name is Isaac W. DeVere.
+I possess extensive knowledge in both technology and **architecture**, and I take pride in maintaining a balance between my academic pursuits and personal interests such as development and social media. **Discord** is my primary platform for communication and collaboration.
+
+Professionally, I am both a **Developer** and an **Online Therapist**. Over time, I have developed a keen ability to understand people—often gaining insights into their personality through just a few of their messages.
+
+Should you ever find yourself in need of someone to speak with—whether for technical collaboration or personal conversation—I welcome you to reach out at any time.
+
+And above all, I hold a timeless appreciation for the elegance of jazz.
 
 | Languages  |
 | :--        |

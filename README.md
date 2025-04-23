@@ -8,10 +8,9 @@
 
 " Live as you'll die tomorrow,  learn as you'll live forever. ". 
 
-Hello, nice to meet ya. My name is Isaac W. DeVere.
-I possess extensive knowledge in both technology and **architecture**, and I take pride in maintaining a balance between my academic pursuits and personal interests such as development and social media. **Discord** is my primary platform for communication and collaboration.
+Hello, nice to meet ya. My name is Isaac W. DeVere. I possess extensive knowledge in both technology and architecture, and I take pride in maintaining a balance between my academic pursuits and personal interests such as development and social media. Discord is my primary platform for communication and collaboration.
 
-Professionally, I am both a **Developer** and an **Online Therapist**. Over time, I have developed a keen ability to understand people—often gaining insights into their personality through just a few of their messages.
+Professionally, I am both a Developer and an Online Therapist. With over 6 years of experience in Psychology, I’ve developed a keen ability to understand people-often gaining insight into their personality through just a few of their messages.
 
 Should you ever find yourself in need of someone to speak with—whether for technical collaboration or personal conversation—I welcome you to reach out at any time.
 

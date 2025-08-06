@@ -50,3 +50,24 @@ My:
 | 55+ | Projects | Amount of projects I have worked on. |
 | 80+ | Developers Platforms Explored | Other Developers Platforms that i've explored. |
 
+
+
+
+
+
+
+
+
+
+# The Table
+
+| Members  |
+| :--        |
+| The DeVere|
+The Ace|
+|The Spade|
+|The Crest|
+The Ledger|
+|The Signet|
+|The Ivory|
+|The Bond |
